@@ -1,0 +1,2 @@
+defmodule PhoenixPubsub do
+end

@@ -1,0 +1,2 @@
+%{"poolboy": {:hex, :poolboy, "1.4.2"},
+  "redo": {:git, "git://github.com/heroku/redo.git", "b25e7bd3b197564192069d609d1e8e02183b71a6", []}}
